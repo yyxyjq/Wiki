@@ -1,6 +1,6 @@
 # Server Info
 
-> **LAST UPDATE: 2020/11/01**
+> **LAST UPDATE: 2020/11/21**
 
 Timory is composed of multiple sub-servers. This page will introduce you to the details of each server.
 
@@ -14,7 +14,7 @@ Some sub-servers need whitelist , you may need to [Apply Whitelist](/en-US/join/
 
 ## Server Address
 
-?> **It\'s recommended to use `` 1.16.2\3`` to enter the server for the best gaming experience.**
+?> **It\'s recommended to use `` 1.16.4`` to enter the server for the best gaming experience.**
 
 #### Address:  
 > `` bgp.mcshiyi.com   ``  
@@ -51,7 +51,7 @@ If you forget the server ID，you can use ``/server``to see all the id.
 
 ID：``spawn``  
 ver: 1.14.4  
-supported ver: 1.14.4~1.15.x  
+supported ver: 1.14.4~1.16.x  
 whitelist required：NO  
 
 Intro：  
@@ -67,8 +67,8 @@ server for you to explore and entertain.
 #### survival-1 (sc)
 
 ID: ``sc``  
-ver: 1.16.3
-supported ver: 1.16.3
+ver: 1.16.4
+supported ver: 1.16.4
 whitelist：YES
 
 Intro：  
@@ -81,8 +81,8 @@ It provides experience closest to the default Minecraft gameplay.
 #### creative (cz)
 
 ID: ``cz``  
-ver: 1.15.2  
-supported ver: 1.16.3  
+ver: 1.16.4  
+supported ver: 1.16.4  
 whitelist：YES
 
 Intro：  
