@@ -4,8 +4,6 @@ This page provides developers with our API
 
 ?> API is WIP
 
-If you have any question, please contact: [ShirosakiMieru](mailto:shirosaki@mieru.moe)
-
 ------
 
 ## Banlsit API
