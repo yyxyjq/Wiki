@@ -15,13 +15,6 @@
 1. 全服务器 升级 至 1.17 
 2. 稳定性和性能提升 
 3. 恢复 跨服聊天 功能
-4. 开放 ftr 服务器
-
-「注」ftr 服 使用 Fabric + Carpet，以保证游戏特性与 Vanilla 原版一致。 
-
-关于此服务器的更多情况，请参阅：https://guide.mcshiyi.com/#/zh-CN/guide/serverInfo 
-
-ftr 服务器由 yyxyjq 负责管理 
 
 【重要】【注意事项】： 
 
