@@ -7,6 +7,8 @@ Welcome to Timory Server.
 
 ?> Tips: This translation is WIP, you can contact us if you would like to help us translate.
 
+?> If the content conflicts with the Chinese version, the Chinese version shall prevail.
+
 - [[Official Website (Chinese)]](https://www.mcshiyi.com/) 
 
 - [[Whitelist Application]](/en-US/join/whitelist.md) 
