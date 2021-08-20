@@ -17,7 +17,7 @@
 - [文化交流](/zh-CN/culture/readme.md)
 - [隐私保护](/zh-CN/privacy/privacy.md)
 - [更新日志](/zh-CN/changelogs/readme.md)
-    - [2020年](/zh-CN/changelogs/2019.md)
+    - [2020年](/zh-CN/changelogs/2020.md)
     - [2019年](/zh-CN/changelogs/2019.md)
     - [2018年及之前](/zh-CN/changelogs/2018及之前.md)
 - [捐赠](https://www.mcshiyi.com/donateserver.html ':target=_blank')
