@@ -1,8 +1,6 @@
 # 账号注销
 
-如果您想要注销账号，请通过以下方式联系我们:
-
-- E-Mail: [privacy@mcshiyi.com](mailto:privacy@mcshiyi.com)  
+如果您想要注销账号，请联系服务器管理员。
 
 -----
 
