@@ -21,14 +21,14 @@
      - Check the address you entered
      - Flush your dns
 - #### ``Can't connect to server``
-    - Check the group announcement to see if server is maintaining
+    - Check the group announcement to see if server is maintaining, if:
         - YES：
             - Please wait patiently for maintenance
         - NO：
             - Please contact the administrator
 - ####  ``failed to login: invalid session``
     - Reboot your client
-- ####  ``您尚未申请白名单``
+- ####  ``You are not in the whitelist``
     - Please apply whitelist first in here: [[Whitelist Applcations]](/en-US/join/whitelist.md)
 - ####  ``Outdated Server `` or  ``Outdated Client`` 
     - See: [[Server Info]](/en-US/guide/serverInfo.md)
@@ -61,22 +61,14 @@
         
 ### How to check the online player？
 - Lookup in Telegram **is not support yet**, you need to use the Tencent QQ.
-- Send command: ``:list`` to bot（QQ: 26897**649）in private chat on QQ.
-- If bot has not responded for a long time, contact admin.
+- Send command: ``:list`` to bot（QQ: 26897\*\*649）in private chat on QQ.
+- If bot has not responded for a long time, please contact admin.
 
 
 ### What is the server hardware？
-- Hardware：
-    - GameServer:
-        - CPU: intel i7-6700 @3.7G
-        - RAM: DDR3 28G(3*8+4) 
-        - Disk:
-            - Samsung 860EVO 480G SSD(System Runtime & Minecraft Runtime )
-            - Samsung 850EVO 120G SSD(Database Runtime)
-            - WDC 2T HDD (Backup Storage) 
-        - Network:
-            - ChinaTelecom 200Mbps
-            - AlibabaCloud BGP router, Guangzhou, China.
+- MainServer：
+    - CPU: intel i7-9700K @5.0G
+    - RAM: 64G DDR4 
 
 ### Does the server have API?
 - doc: [[Api Doc]](/en-US/dev/api.md)
