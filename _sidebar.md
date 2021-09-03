@@ -14,7 +14,6 @@
     - 公共规划区 (建设中)
     - 服务器地图 (建设中)
     - 交通路线 (建设中)
-- [文化交流](/zh-CN/culture/readme.md)
 - [隐私保护](/zh-CN/privacy/privacy.md)
 - [更新日志](/zh-CN/changelogs/readme.md)
     - [2020年](/zh-CN/changelogs/2020.md)
