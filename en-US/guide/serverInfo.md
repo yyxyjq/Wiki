@@ -1,6 +1,6 @@
 # Server Info
 
-> **LAST UPDATE: 2021/08/13**
+> **LAST UPDATE: 2021/09/03**
 
 Timory is composed of multiple sub-servers. This page will introduce you to the details of each server.
 
@@ -64,7 +64,7 @@ a whitelist.
 There are some mini games in this
 server for you to explore and entertain.
 
-#### survival-1 (sc)
+#### survival (sc-lts)
 
 ID: ``sc``  
 whitelist：YES
@@ -76,6 +76,9 @@ without death protection,
 no teleport, lockette, residance and other functions.  
 It provides experience closest to the default Minecraft gameplay.
 
+This server is a LTS (Long-Term Support) version, and game data will not be deleted under normal circumstances.
+If you like the full vanilla experience, you can join our ``tech`` server (see below for details)
+
 #### creative (cz)
 
 ID: ``cz``  
@@ -86,9 +89,48 @@ This server provides a creative mode
 that can be freely constructed while
 complying with server regulations.
 
-Limit：  
+Limits：  
 The server disabled the fire and TNT explosion.  
 Do NOT build content violates server regulations.
+
+
+#### Tech (STS short-term support) (tech)
+
+It is recommended that players choose this server to ensure that the game features are exactly the same as the vanilla Minecraft.
+
+?> This server is independently operated by the administrator ``yyxyjq``
+
+Server ID: ~~tech ~~ (independent address, please contact the administrator yyxyjq) Version: the latest official version of Minecraft requires a whitelist: yes
+
+Introduction:
+
+This server is based on Fabric + Carpet to ensure that the game features are exactly the same as the original Vanilla.
+
+##### Notice:
+
+This server is operated independently, if you have any questions, please contact the administrator ``yyxyjq``
+
+!> This server is a Short-Term Support version, The following situations may reset the world
+
+- Major version upgrade (e.g. 1.17 -> 1.18)
+- Not updated for more than a year, most of the resources have been developed
+
+The specific rules will be updated in the QQ group
+
+
+#### tech-creative (tcz)
+
+> This server has been changed to Fabric+Vanilla-based server on 2021/07/30
+
+Server ID: tcz  
+whitelist: yes  
+
+Introduction:
+
+This server is based on Vanilla and has the same characteristics as the Tech server. You can test mob spawning, redstone machinery or other characteristics here.
+
+``tcz`` uses an ultra-flat map
+
 
 -----
 
@@ -111,10 +153,6 @@ Future has been temporarily closed from 2020/01/15.
 -----
 
 ### Coming soon
-
-#### survival-2 (sc2)
-
-WIP
 
 #### game/pvp (game)
 
