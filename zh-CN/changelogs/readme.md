@@ -3,6 +3,7 @@
 本页面存放了服务器的更新记录。
 
 目录:
+- [2021年](#2021)
 - [2020年](/zh-CN/changelogs/2020.md)
 - [2019年](/zh-CN/changelogs/2019.md)
 - [2018年及之前](/zh-CN/changelogs/2018及之前.md)
