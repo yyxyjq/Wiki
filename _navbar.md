@@ -5,9 +5,6 @@
 * 语言 | Languages
     * [简体中文](/)
     * [English (WIP)](/en-US/)
-    * [繁體中文 (WIP)](/zh-TW/)
-    * [日本語 (WIP)](/ja-JP/)
-    * [한국어 (WIP)](/ko-KR/)
 * 开发者中心
     * [Github](https://github.com/TimoryGroup ':target=_blank')
     * [API](/zh-CN/dev/api.md)
