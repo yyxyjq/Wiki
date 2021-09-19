@@ -11,7 +11,7 @@
 
 - [【申请白名单】](/zh-CN/join/whitelist.md) 
 
-- [【服务器信息/IP】](/zh-CN/guide/serverInfo)
+- [【服务器信息/IP】](/zh-CN/guide/serverInfo.md)
 
 - [【服务器规定】](/zh-CN/join/rules.md)
 
