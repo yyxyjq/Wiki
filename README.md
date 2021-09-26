@@ -7,11 +7,18 @@
 
 快速浏览:
 
-[常见问题FAQ](/zh-CN/guide/faq.md) |[申请白名单](/zh-CN/join/whitelist.md) | [新人指南](/zh-CN/guide/playerGuide.md) | [服务器信息](/zh-CN/guide/serverInfo.md)|  [服务器规定](/zh-CN/join/rules.md) | 
+[常见问题FAQ](/zh-CN/guide/faq.md) |[申请白名单](/zh-CN/join/whitelist.md) | [新人指南](/zh-CN/guide/playerGuide.md) | [服务器信息](/zh-CN/guide/serverInfo.md)|  [服务器规定](/zh-CN/join/rules.md) 
+
+## 加入游戏
+
+?> **建议您使用 ``1.17.1`` 版本客户端进入服务器，以获得最佳游戏体验。**
+
+>  **bgp.mcshiyi.com**    
+
 
 ## 联系方式
 - [官网: www.mcshiyi.com](https://www.mcshiyi.com ':target=_blank')
 - [论坛: bbs.mcshiyi.com](https://bbs.mcshiyi.com ':target=_blank')
-- [官方迎新QQ群: 1061728265](https://jq.qq.com/?_wv=1027&k=5BSu3sX ':target=_blank')
+- [官方迎新QQ群: 1061728265 (点击加入)](https://jq.qq.com/?_wv=1027&k=5BSu3sX ':target=_blank')
 - [Telegram 群组](https://t.me/joinchat/IdDH-Egtujuf1UzuCWznJw ':target=_blank')
-- [Github: 时忆云计算开源中心](https://github.com/TimoryGroup ':target=_blank')
+- [GitHub](https://github.com/TimoryGroup ':target=_blank')
