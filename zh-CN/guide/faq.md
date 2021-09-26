@@ -88,7 +88,7 @@
         - 玩家: 180 天
         - 非玩家: 30 天
 
-### 服务器开放API吗？:id=timory-api
+### 服务器开放API吗？ :id=timory-api
 - 文档: [【API文档】](/zh-CN/dev/api.md)
     - 时忆API正在开发中，感谢您的关注。
 
