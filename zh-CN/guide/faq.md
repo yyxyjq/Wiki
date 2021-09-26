@@ -1,5 +1,7 @@
 # 常见问题(FAQ)
 
+*最后更新：{docsify-updated}*
+
 ## 目录 {docsify-ignore}
 
 - [怎么申请白名单](#applywhitelist)
