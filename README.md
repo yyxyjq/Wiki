@@ -7,16 +7,7 @@
 
 快速浏览:
 
-- [【常见问题】](/zh-CN/guide/faq.md)   
-
-- [【申请白名单】](/zh-CN/join/whitelist.md) 
-
-- [【服务器信息/IP】](/zh-CN/guide/serverInfo.md)
-
-- [【服务器规定】](/zh-CN/join/rules.md)
-
-- [【新人指南】](/zh-CN/guide/playerGuide.md)
-
+[常见问题FAQ](/zh-CN/guide/faq.md) |[申请白名单](/zh-CN/join/whitelist.md) | [新人指南](/zh-CN/guide/playerGuide.md) | [服务器信息](/zh-CN/guide/serverInfo.md)|  [服务器规定](/zh-CN/join/rules.md) | 
 
 ## 联系方式
 - [官网: www.mcshiyi.com](https://www.mcshiyi.com ':target=_blank')
