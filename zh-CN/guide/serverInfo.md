@@ -20,11 +20,11 @@
 
 服务器ID | 名称 | 是否开启 | 备注
 ---|---|---|---
-[spawn](#spawn-server) | 登陆服 | ✔ | 登陆服无需白名单
-[sc](#sclts-server) | 生存-LTS长期支持  | ✔ | 不删档服务器
-[cz](#cz-server) | 创造-海岛建筑  | ✔ | 
-[💠tech](#tech-server) | Tech-STS短期支持 | ✔  | Fabric + Vanilla，完全原版特性
-[tcz](#tcz-server) | Tech附属创造服 | ✔  | Fabric + Vanilla
+[spawn](#spawn-server) | 登陆服 | :heavy_check_mark: | 登陆服无需白名单
+[sc](#sclts-server) | 生存-LTS长期支持  | :heavy_check_mark: | 不删档服务器
+[cz](#cz-server) | 创造-海岛建筑  | :heavy_check_mark: | 
+[💠tech](#tech-server) | Tech-STS短期支持 | :heavy_check_mark:  | Fabric + Vanilla，完全原版特性
+[tcz](#tcz-server) | Tech附属创造服 | :heavy_check_mark:  | Fabric + Vanilla
 [event](#event-server) | 活动服务器  | ⚠ | 不定期开放
 [💠mod](#mod-server) | mod服 |  ⚠ | 独立运营
 
@@ -175,7 +175,7 @@ tcz 使用超平坦地图
 <details>
 <summary>点击展开</summary>
     
-> 注: 由于无人游玩，skyblock 服已从 2021/07 起暂时关闭。  
+> 注: 由于活跃度较低，skyblock 服已从 2021/07 起暂时关闭。  
 
 简介：  
 此服务器提供空岛生存玩法。
