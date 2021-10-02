@@ -44,7 +44,7 @@
 
 ## 开放的服务器 
 
-### 登陆服(spawn)  :id=spawn-server
+### 🔰登陆服 (spawn)   :id=spawn-server
 
 - 服务器ID：``spawn``  
 - 需要白名单：否  
@@ -55,7 +55,7 @@
 特殊说明:  
 为了更好的游戏体验，此服务器的聊天消息不会转发到其他服务器，如果您需要与我们交流，欢迎加入我们的官方QQ群。
 
-### 生存服(LTS长期支持)(sc) :id=sclts-server
+### ⛏生存服 (sc) *(LTS长期支持)* :id=sclts-server
 
 - 服务器ID: ``sc``  
 
@@ -69,7 +69,7 @@
 1. 以下是 无法使用/被禁止 的特性:
     - 区块溢出 (会导致服务器加载区块出错)
 
-### Tech 服(STS短期支持)(tech) :id=tech-server
+### 🛠Tech 服 (tech) *(STS短期支持)* :id=tech-server
 
 > 推荐 生电 玩家选择此服务器，以保障游戏特性与原版完全一致。
 
@@ -87,7 +87,7 @@
 
 具体规则以群内通知为准
 
-### tech测试创造服(tcz) :id=tcz-server
+### ⚒tech测试创造服 (tcz) :id=tcz-server
 
 > *此服已于 2021/07/30 更换到基于 Fabric+Vanilla 的服务端*
 
@@ -98,7 +98,7 @@
 tcz 使用超平坦地图
 
 
-### 创造服(cz) :id=cz-server
+### 🧱创造服 (cz) :id=cz-server
 
 - 服务器ID: ``cz``  
 
@@ -109,7 +109,7 @@ tcz 使用超平坦地图
 禁止了火焰蔓延、TNT爆炸破坏。
 
 
-### Mod服（独立运营） :id=mod-server
+### ⚙Mod服 (独立运营) :id=mod-server
 
 ?> ⚠ 本服务器 独立运营，不包含在时忆的群组网络中，如有问题请联系管理员 **yyxyjq**
 
@@ -119,7 +119,7 @@ tcz 使用超平坦地图
 
 ## 不定时开放的服务器
 
-### 活动服(event)  :id=event-server
+### 🎉活动服(event)  :id=event-server
 
 - 服务器ID: ``event``  
 - 游戏版本: 以群内通知为准  
@@ -134,7 +134,7 @@ tcz 使用超平坦地图
 
 !> ⚠ 以下服务器已经关闭，内容仅供参考
 
-### 小游戏/pvp服务器(game)
+### 🎮小游戏/pvp服务器(game)
 
 <details>
 <summary>点击展开</summary>
@@ -144,7 +144,7 @@ tcz 使用超平坦地图
 暂未开放
 </details>
 
-### 粘液科技插件服(slimefun4)
+### 🧪粘液科技插件服(slimefun4)
 
 <details>
 <summary>点击展开</summary>
@@ -156,7 +156,7 @@ tcz 使用超平坦地图
 </details>
 
 
-### Future服(future)
+### ⏰Future服(future)
 
 <details>
 <summary>点击展开</summary>
@@ -170,7 +170,7 @@ tcz 使用超平坦地图
 
 
 
-### 空岛生存服(skyblock)
+### 🏝空岛生存服(skyblock)
 
 <details>
 <summary>点击展开</summary>
