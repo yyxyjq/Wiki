@@ -23,10 +23,10 @@
 [spawn](#spawn-server) | 登陆服 | :heavy_check_mark: | 登陆服无需白名单
 [sc](#sclts-server) | 生存-LTS长期支持  | :heavy_check_mark: | 不删档服务器
 [cz](#cz-server) | 创造-海岛建筑  | :heavy_check_mark: | 
-[💠tech](#tech-server) | Tech-STS短期支持 | :heavy_check_mark:  | Fabric + Vanilla，完全原版特性
-[tcz](#tcz-server) | Tech附属创造服 | :heavy_check_mark:  | Fabric + Vanilla
-[event](#event-server) | 活动服务器  | ⚠ | 不定期开放
-[💠mod](#mod-server) | mod服 |  ⚠ | 独立运营
+[event](#event-server) | 活动服务器  |  | 不定期开放
+[💠tech](#tech-server) | Tech-STS短期支持 | 独立运营  | Fabric + Vanilla，完全原版特性
+[💠tcz](#tcz-server) | Tech附属创造服 | 独立运营  | Fabric + Vanilla
+[💠mod](#mod-server) | mod服 | 独立运营  | 
 
 
 #### 什么是独立运营服务器？  :id=independent-server
@@ -42,7 +42,7 @@
 
 -----
 
-## 开放的服务器 
+## 服务器列表 
 
 ### 🔰登陆服 (spawn)   :id=spawn-server
 
