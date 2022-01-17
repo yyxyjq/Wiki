@@ -13,6 +13,8 @@
 
 >  **bgp.mcshiyi.com**    
 
+>  **mc.mcshiyi.com**    
+
 
 ## 联系方式
 - [官网: www.mcshiyi.com](https://www.mcshiyi.com ':target=_blank')
