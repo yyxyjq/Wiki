@@ -10,7 +10,7 @@ Welcome to Timory Server.
 ?> If the content conflicts with the Chinese version, the Chinese version shall prevail.
 
 
-[FAQ](/zh-CN/guide/faq.md) | [lication]]](/zh-CN/join/whitelist.md) | [Guide](/zh-CN/guide/playerGuide.md) | [Servers](/zh-CN/guide/serverInfo.md) |  [Rules](/zh-CN/join/rules.md) 
+[FAQ](/en-US/guide/faq.md) | [Application](/en-US/join/whitelist.md) | [Guide](/en-US/guide/playerGuide.md) | [Servers](/en-US/guide/serverInfo.md) |  [Rules](/en-US/join/rules.md) 
 
 ## Join Game
 
