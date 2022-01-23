@@ -12,7 +12,7 @@ Some sub-servers need whitelist , you may need to [Apply Whitelist](/en-US/join/
 
 -----
 
-### 切换服务器
+### Switch to sub-server
 
 You can use the command: ``/server <ID>`` to switch between sub-servers.
 
@@ -23,145 +23,95 @@ Server ID | Name | Enabled | Comments
 [spawn](#spawn-server) | Spawn Server | :heavy_check_mark: | No whitelist required
 [sc](#sclts-server) | Survival (Long-term support)  | :heavy_check_mark: | Long-term support
 [cz](#cz-server) | Creative  | :heavy_check_mark: | Building
-[event](#event-server) | Event  |  | 不定期开放
+[event](#event-server) | Event  |  | 
 [💠tech](#tech-server) | TechSurvival (Short-term support) |   | Full Vanilla Experience
-[💠tcz](#tcz-server) | Tech附属创造服 |   | Fabric + Vanilla
-[💠mod](#mod-server) | mod服 |   | 
+[💠tcz](#tcz-server) | Tech-Creative |   | Fabric + Vanilla
+[💠mod](#mod-server) | Mod Server |   | 
 
-### Switch in sub-server
+#### What is independent server？  :id=independent-server
 
-You can use the command: ``/server <ID>`` to switch between sub-servers.
+Since some servers are updated frequently, some administrators are directly responsible for these servers and operate independently and are not included in the Timory Server network.
 
-You can see the sub-server ID below
+> The currently independently operated server is under the responsibility of the admin ``yyxyjq``.
 
-e.g: ``/server sc`` to survival server
+Precautions: 
+1. Independently operated servers also abide by the regulations of Timory.
+2. No additional application is required for the whitelist.
+3. At present, chat will not communicate with others sub-server.
 
-If you forget the server ID，you can use ``/server``to see all the id.
-
-- Opened
-    - spawn(spawn)
-    - survival-1(sc)
-    - creative(cz)
-    - tech(tech)
-    - tech-creative(tcz)
-- Closed
-    - future(future)
-- WIP
-    - survival-2
-
-    
 -----
 
-### Opened server 
 
-#### spawn (spawn) 
+## Server list 
 
-ID：``spawn``  
-whitelist required：NO  
+### 🔰 Spawn server (spawn) :id=spawn-server
 
-Intro：  
-When you enter the server for the first time,
-you will enter this server.  
-This server acts
-as lobby, allowing you to enter the
-server for communication without applying for
-a whitelist.  
-There are some mini games in this
-server for you to explore and entertain.
+- Server ID: ``spawn``
+- Requires Whitelist: No
 
-#### survival (sc-lts)
+Introduction:  
+When you enter the server for the first time, you will enter this server. This server serves as the server lobby, allowing you to enter the server to visit if you have not applied for the whitelist. This server provides some mini-games for you to explore and entertain.
 
-ID: ``sc``  
-whitelist：YES
-
-Intro：  
-This server is in the original survival mode,
-and the difficulty is HARD.   
-without death protection,
-no teleport, lockette, residance and other functions.  
-It provides experience closest to the default Minecraft gameplay.
-
-This server is a LTS (Long-Term Support) version, and game data will not be deleted under normal circumstances.
-If you like the full vanilla experience, you can join our ``tech`` server (see below for details)
-
-#### creative (cz)
-
-ID: ``cz``  
-whitelist：YES
-
-Intro：  
-This server provides a creative mode 
-that can be freely constructed while
-complying with server regulations.
-
-Limits：  
-The server disabled the fire and TNT explosion.  
-Do NOT build content violates server regulations.
+Special Instructions:    
+For a better gaming experience, the chat messages of this server will not be forwarded to other servers. If you need to communicate with us, welcome to join our official QQ group.
 
 
-#### Tech (STS short-term support) (tech)
+### ⛏  Survival Server (sc) *(LTS Long Term Support)* :id=sclts-server
 
-It is recommended that players choose this server to ensure that the game features are exactly the same as the vanilla Minecraft.
+- Server ID: ``sc``
 
-?> This server is independently operated by the administrator ``yyxyjq``
+Introduction:  
+- This server is the original survival mode, the difficulty is difficult, it is set to drop equipment, and there are no functions such as ``/spawn``, residence , lockette, teleportation, etc. , to provide you with a survival experience close to the original.
+- This server is  Long-Term Support , and world will not be deleted under normal circumstances.
+- If you like Full-Vanilla version, you can choose [tech](#tech-server) server
 
-Server ID: ~~tech ~~ (independent address, please contact the administrator yyxyjq) Version: the latest official version of Minecraft requires a whitelist: yes
+Special Instructions:  
+1. The following features are unavailable/prohibited:  
+     - Chunk overflow (would cause the server to load chunks incorrectly)
 
-Introduction:
+### 🛠 Tech server (tech) *(STS short-term support)* :id=tech-server
 
+> It is recommended that players choose this server to ensure that the game features are exactly the same as the Vanilla.
+
+?> ⚠ This server operates independently and is not included in Timory network. If you have any questions, please contact the administrator **yyxyjq**
+
+Introduction:  
 This server is based on Fabric + Carpet to ensure that the game features are exactly the same as the original Vanilla.
 
-##### Notice:
+!> This server is in **Short-Term Support** and the following conditions **may** reset the world
 
-This server is operated independently, if you have any questions, please contact the administrator ``yyxyjq``
+1. Major version upgrade (eg 1.17 -> 1.18)
+2. It has not been updated for more than a year, and most of the resources have been developed
 
-!> This server is a Short-Term Support version, The following situations may reset the world
+The specific rules are subject to the notice in the QQ group
 
-- Major version upgrade (e.g. 1.17 -> 1.18)
-- Not updated for more than a year, most of the resources have been developed
+### ⚒ Tech Test Creation Server (tcz) :id=tcz-server
 
-The specific rules will be updated in the QQ group
+> *This server has been changed to a Fabric+Vanilla based server on 2021/07/30*
 
+- Server ID: ``tcz``
 
-#### tech-creative (tcz)
-
-> This server has been changed to Fabric+Vanilla-based server on 2021/07/30
-
-Server ID: tcz  
-whitelist: yes  
-
-Introduction:
-
-This server is based on Vanilla and has the same characteristics as the Tech server. You can test mob spawning, redstone machinery or other characteristics here.
-
-``tcz`` uses an ultra-flat map
+Introduction:  
+This server is based on Vanilla, and its features are the same as the Tech server. You can test monster spawning, redstone machinery or other features here.
+tcz uses superflat maps
 
 
------
+### 🧱 Create Server (cz) :id=cz-server
 
-### Closed
+- Server ID: ``cz``
 
-#### Future(future)
+Introduction:  
+This server offers a creative mode, which allows you to build freely under the premise of abiding by the rules of the server.
 
-ID: ``future``  
-ver: latest release  
-supported ver: latest release  
-whitelist：YES
+Limit:   
+- Flame spread and TNT explosion destruction are prohibited.
 
-Intro: This server provides a new version of
-the preemptive gameplay and will be open before
-the survival server is updated to the latest version
 
-Note: Due to the low usage rate,
-Future has been temporarily closed from 2020/01/15.
+### ⚙ Mod server (independent operation) :id=mod-server
 
------
+?> ⚠ This server operates independently and is not included in Shiyi's group network. If you have any questions, please contact the administrator **yyxyjq**
 
-### Coming soon
-
-#### game/pvp (game)
-
-WIP
+Join the QQ group [471042398](https://jq.qq.com/?_wv=1027&k=5Eghuls) for more information.
 
 ### Others
 
