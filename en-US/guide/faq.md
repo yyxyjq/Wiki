@@ -58,7 +58,7 @@
     - World badly damaged
     - Other special circumstances 
 - After change to new world, download will available for the old world.     
-        
+
 ### How to check the online player？
 - Lookup in Telegram **is not support yet**, you need to use the Tencent QQ.
 - Send command: ``:list`` to bot（QQ: 26897\*\*649）in private chat on QQ.
