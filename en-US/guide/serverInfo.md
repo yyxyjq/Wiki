@@ -1,6 +1,6 @@
 # Server Info
 
-> **LAST UPDATE: 2021/09/03**
+> **LAST UPDATE: {docsify-updated}**
 
 Timory is composed of multiple sub-servers. This page will introduce you to the details of each server.
 
@@ -12,16 +12,21 @@ Some sub-servers need whitelist , you may need to [Apply Whitelist](/en-US/join/
 
 -----
 
-## Server Address
+### 切换服务器
 
-?> **It\'s recommended to use `` 1.17.1`` to enter the server for the best gaming experience.**
+You can use the command: ``/server <ID>`` to switch between sub-servers.
 
-#### Address:  
-> `` bgp.mcshiyi.com   ``  
+?> Servers marked with 💠 are <span class="nw-explain" title="例如，服务器为 1.16.4 版本，则你只能使用 1.16.4 客户端"> **[independently operated servers ](#independent-server)** </span>  and cannot be switched using the ``/server`` command.
 
-?> Due to the server is in mainland China, you may need a VPN if you have high latency.
-
------
+Server ID | Name | Enabled | Comments
+---|---|---|---
+[spawn](#spawn-server) | Spawn Server | :heavy_check_mark: | No whitelist required
+[sc](#sclts-server) | Survival (Long-term support)  | :heavy_check_mark: | Long-term support
+[cz](#cz-server) | Creative  | :heavy_check_mark: | Building
+[event](#event-server) | Event  |  | 不定期开放
+[💠tech](#tech-server) | TechSurvival (Short-term support) |   | Full Vanilla Experience
+[💠tcz](#tcz-server) | Tech附属创造服 |   | Fabric + Vanilla
+[💠mod](#mod-server) | mod服 |   | 
 
 ### Switch in sub-server
 
