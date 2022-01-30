@@ -12,6 +12,23 @@
 
 ## 2022
 
+### 2022-01-30  
+#游戏内容更新  
+1. RGB全彩支持
+    - 支持范围: 
+        -  聊天
+        -  铁砧重命名
+        -  告示牌（见下文）
+    - 使用方法:
+        - 使用&#+六位颜色代码
+        - 例：``&#ffb200你&#ffcc00的&#ffe500当&#ffff00代&#d5ff00互&#aaff00联&#80ff00网&#55ff00小&#2bff00天&#00ff00使``
+       
+   <div><span style="color: #ffb200">你</span><span style="color: #ffcc00">的</span><span style="color: #ffe500">当</span><span style="color: #ffff00">代</span><span style="color: #d5ff00">互</span><span style="color: #aaff00">联</span><span style="color: #80ff00">网</span><span style="color: #55ff00">小</span><span style="color: #2bff00">天</span><span style="color: #00ff00">使</span></div>
+   
+2. 告示牌预编辑
+    - 使用命令``/signedit <行号> <内容>`` 可对手上未放置的告示牌进行预编辑
+
+
 ### 2022-01-12  
 #游戏内容更新  
 1. 升级 全服务器 版本到 1.18.1  
