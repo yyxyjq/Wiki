@@ -13,19 +13,23 @@
 ## 2022
 
 ### 2022-02-07
-#游戏内容更新  
+#游戏内容更新
+
 1. 新增 物品展示 功能
     - 使用命令 ``/showitem`` 可向其他玩家展示您手上的物品
+ 
 2. 聊天 emoji 支持（服务器材质包）
     - 需关闭 语言-强制unicode支持
     - 如需增加其他 emoji ，欢迎联系管理员
  
  #问题修复
- 1. 修复了告示牌无法正常编辑的bug
- 2. 修复了消息转发点击回复无效果的问题
+ 
+ 1. 修复了告示牌无法正常编辑的bug  
+ 2. 修复了消息转发点击回复无效果的问题  
  
 ### 2022-01-30  
-#游戏内容更新  
+#游戏内容更新
+
 1. RGB全彩支持
     - 支持范围: 
         -  聊天
@@ -36,7 +40,7 @@
         - 例：``&#ffb200你&#ffcc00的&#ffe500当&#ffff00代&#d5ff00互&#aaff00联&#80ff00网&#55ff00小&#2bff00天&#00ff00使``
        
    <div><span style="color: #ffb200">你</span><span style="color: #ffcc00">的</span><span style="color: #ffe500">当</span><span style="color: #ffff00">代</span><span style="color: #d5ff00">互</span><span style="color: #aaff00">联</span><span style="color: #80ff00">网</span><span style="color: #55ff00">小</span><span style="color: #2bff00">天</span><span style="color: #00ff00">使</span></div>
-   
+ 
 2. 告示牌预编辑
     - 使用命令``/signedit <行号> <内容>`` 可对手上未放置的告示牌进行预编辑
 
