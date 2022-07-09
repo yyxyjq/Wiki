@@ -13,7 +13,9 @@
 
 **bgp.mcshiyi.com**    
 
-**mc.mcshiyi.com**    
+**mc.mcshiyi.com**
+
+**mc2.mcshiyi.com**
 
 ## 最新公告
 
