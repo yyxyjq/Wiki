@@ -2,19 +2,11 @@
 
 本页面为开发者提供时忆已开放的API
 
-?> API正在施工中哦~
-
 ------
 
-## 封禁列表API
+## 封禁列表
 
-### 1. UniBan联合封禁
-!> 需使用[UniBan联合封禁插件](https://uniban.eumc.cc/)
-
-封禁列表订阅ID:  
-> ``/uniban subscribe aMS5vRAP2yvUaLWVQKGrqSbD2C3l9hC4vUPb6D2jBjA=``
-
-### 2. Github Banlist Json
+### 1. Github Banlist Json
 
 Repo:  
 > [https://github.com/TimoryGroup/Banlist](https://github.com/TimoryGroup/Banlist)
